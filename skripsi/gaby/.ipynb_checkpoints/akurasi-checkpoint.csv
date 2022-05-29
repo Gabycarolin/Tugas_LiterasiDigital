@@ -1,0 +1,319 @@
+Timestamp,Email,Nama Mahasiswa,NIM,Semester,Golongan,Matakuliah,Minggu Ke,Tanggal Perkuliahan,Topik,Apa yang sudah anda Pelajari ?
+6/22/2021 13:16:00,yudhaoctavian01@gmail.com,Octavian Yudha Mahendra,E41180097,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Instruksi,"Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Operan sumber dan operan hasil dapat berada di tiga bagian yaitu memori utama atau memori virtual yang merupakan alamat yang harus diberikan ketika sebuah instruksi dibuat. Termasuk jenis register eksplisit adalah pada penggunaan dua atau tiga register, sedangkan instruksi dengan satu register , kemungkinan besar yang dilibatkan adalah register implisit akumulator secara implisit dihubungkan sebagai operan hasil. Instruksi harus menentukan perangkat I/O atau modul yang digunakan, atau pada kasus memory-mapped I/O maka operan tujuan adalah lokasi memori lain.
+Tipe-tipe  instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi  I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi.
+Fakta tentang sesain set instruksi ternyata masih dalam perselisihan. Dua pembahasan yang menjadi perselisihan selanjutnya berkaitan dengan register dan pengalamatan. Instruksi mesin bekerja pada data dengan kategori data yang paling penting adalah alamat, angka, karakter serta data logika. Jenis-jenis teknik pengalamatan instruksi meliputi pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan."
+6/22/2021 13:25:48,lidiapriswanti2000@gmail.com,Maulidya Priswanti,E41180211,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas :
+
+• Kode operasi berfungsi sebagai penentu operasi
+
+• Sumber operan sebagai referensi data
+
+• Hasil operand sebagai referensi data
+
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).
+
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi. Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu: bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine).
+
+Hal yang perlu diperhatikan dalam desain instruksi adalah tipe-tipe operan yang terlibat pada sebuah set instruksi. Instruksi mesin bekerja pada data dengan kategori data yang paling penting adalah alamat, angka, karakter serta data logika. Instruksi dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Berbagai teknik pengalamatan telah digunakan untuk mencapai akses tersebut. Pertukaran antara rentang alamat dan / atau kompleksitas perhitungan alamat sangat perlu diperhatikan. Jenis-jenis teknik pengalamatan instruksi meliputi pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack).
+"
+6/22/2021 14:23:01,nafislestamanta@gmail.com,Nafis Hibatullah Lestamanta,E41180163,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Memory,"Instruksi mesin merupakan setiap instruksi berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. 
+Elemen instruksi biasanya terdiri atas : 
+Kode Operasi, berfungsi sebagai penentu operasi 
+Sumber Operan, sebagai referensi data 
+Hasil Operand, sebagai referensi data  
+Instruksi selanjutnya yang akan dieksekusi 
+Operan sumber dan operan hasil dapat berada di tiga bagian, antara lain :
+Memori Utama (Memori Virtual), alamat yang harus diberikan ketika sebuah instruksi dibuat.
+Register CPU, baik register implisit, (penggunaan satu register, biasanya untuk operasi aritmatika), dan register eksplisit (penggunaan dua atau tiga register).
+Perangkat I/O, menentukan perangkat I/O atau modul yang digunakan.
+Tipe Instruksi dan Jumlah Alamat:
+Pengolahan Data Aritmatika dan Instruksi Logika
+Penyimpanan Data 
+Pergerakan Data dari dan Menuju I/O 
+Kontrol atau Pengendalian 
+Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu, bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine).
+Format dan mode pengalamatan ini dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi, antara lain pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack).
+Permasalahan Format Dan Mode Pengalamatan : 
+Flexibilty Lokasi Operan
+Trade Off antara Fleksibilitas Lokasi dan Kecepatan Pemrosesan."
+6/22/2021 15:01:42,Ryanhartadi999@gmail.com,Ryan Hartadi,E41180111,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Elemen instruksi biasanya terdiri atas :
+- Kode operasi berfungsi sebagai penentu operasi
+- Sumber operan sebagai referensi data
+- Hasil operand sebagai referensi data
+- Instruksi selanjutnya yang akan dieksekusi 
+Operan sumber dan operan hasil dapat berada di tiga bagian yaitu memori utama atau memori virtual yang merupakan alamat yang harus diberikan ketika sebuah instruksi dibuat, yang kedua adalah register CPU baik register eksplisit maupun implisit, Jenis operan sumber dan hasil yang kettika adalah perangkat I/O yang digunakan untuk instruksi I/O. Sementara itu, seperti yang dipelajari pada mesin IAS, instruksi biasanya diwakili dengan pernytaan-pernyataan yang sifatnya mudah dipahami atau mudah diingat oleh manusia(mnemonik). Beberapa contoh instruksi adalah sebagai berikut :
+ADD artinya “tambahkan” 
+SUB artinya “kurangkan” 
+DIV artinya “bagi” 
+MUL artinya “kalikan” 
+ADD  R, Y, artinya tambahkan data R (operan pertama) dan Y (operan kedua) 
+Tipe-tipe  instruksi pada mesin komputer terbagi atas empat jenis yang meliputi: instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi  I/O, Kontrol atau pengendalian yang merupakan instruksi pengujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi.
+Instruksi dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi meliputi pengalamatan segera, langsung, tidak langsung, daftar, daftar
+tidak langsung, perpindahan, tumpukan (stack). Sementara permasalahan yang ada terdiri atas flexibilty lokasi operan, trade off antara fleksibilitas lokasi dan kecepatan pemrosesan."
+6/22/2021 15:02:29,pdimas429@gmail.com,Dimas Wahyu Pratama,E41180105,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set instruksi,"Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Elemen instruksi biasanya terdiri atas :
+- Kode operasi berfungsi sebagai penentu operasi
+- Sumber operan sebagai referensi data
+- Hasil operand sebagai referensi data
+- Instruksi selanjutnya yang akan dieksekusi 
+Operan sumber dan operan hasil dapat berada di tiga bagian yaitu memori utama atau memori virtual yang merupakan alamat yang harus diberikan ketika sebuah instruksi dibuat, yang kedua adalah register CPU baik register eksplisit maupun implisit, Jenis operan sumber dan hasil yang kettika adalah perangkat I/O yang digunakan untuk instruksi I/O. Sementara itu, seperti yang dipelajari pada mesin IAS, instruksi biasanya diwakili dengan pernytaan-pernyataan yang sifatnya mudah dipahami atau mudah diingat oleh manusia(mnemonik). Beberapa contoh instruksi adalah sebagai berikut :
+ADD artinya “tambahkan” 
+SUB artinya “kurangkan” 
+DIV artinya “bagi” 
+MUL artinya “kalikan” 
+ADD  R, Y, artinya tambahkan data R (operan pertama) dan Y (operan kedua) 
+Tipe-tipe  instruksi pada mesin komputer terbagi atas empat jenis yang meliputi: instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi  I/O, Kontrol atau pengendalian yang merupakan instruksi pengujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi.
+Instruksi dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi meliputi pengalamatan segera, langsung, tidak langsung, daftar, daftar
+tidak langsung, perpindahan, tumpukan (stack). Sementara permasalahan yang ada terdiri atas flexibilty lokasi operan, trade off antara fleksibilitas lokasi dan kecepatan pemrosesan."
+6/22/2021 15:08:08,titikrosanti2000@gmail.com,Titik Rosanti,E41180124,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Memory,"Instruksi mesin merupakan setiap instruksi berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. 
+Elemen instruksi biasanya terdiri atas : 
+Kode Operasi, berfungsi sebagai penentu operasi 
+Sumber Operan, sebagai referensi data 
+Hasil Operand, sebagai referensi data  
+Instruksi selanjutnya yang akan dieksekusi 
+Operan sumber dan operan hasil dapat berada di tiga bagian, antara lain :
+Memori Utama (Memori Virtual), alamat yang harus diberikan ketika sebuah instruksi dibuat.
+Register CPU, baik register implisit, (penggunaan satu register, biasanya untuk operasi aritmatika), dan register eksplisit (penggunaan dua atau tiga register).
+Perangkat I/O, menentukan perangkat I/O atau modul yang digunakan.
+Tipe Instruksi dan Jumlah Alamat:
+Pengolahan Data Aritmatika dan Instruksi Logika
+Penyimpanan Data 
+Pergerakan Data dari dan Menuju I/O 
+Kontrol atau Pengendalian 
+Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu, bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine).
+Format dan mode pengalamatan ini dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi, antara lain pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack).
+Permasalahan Format Dan Mode Pengalamatan : 
+Flexibilty Lokasi Operan
+Trade Off antara Fleksibilitas Lokasi dan Kecepatan Pemrosesan."
+6/22/2021 16:32:18,gulammubarik77@gmail.com,Gulam Mubarik Ahmad,E41180359,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Instruksi,"Set Instruksi adalah kumpulan berbagai jenis instruksi dari CPU tertentu. Elemen Instruksi sendiri biasanya terdiri atas: Kode Operasi, Sumber Operan, Hasil Operand dan Eksekusi. operan sumber dan operan hasil terdapat tiga bagian utama yaitu 1. Memori utama ini merupakan alamat yang harus diberikan ketika sebuah instruksi dibuat, 2. Register CPU ada 2 yaitu register eksplisit dan implisit, 3. perangkat I/O yang digunakan untuk instruksi I/O. Instruksi biasanya diwakili dengan pernyataan pernyataan yang sifatnya mudah dipahami oleh manusia (Mnemonik). Contoh ADD ""Tahmbahkan"", SUB ""Kurangkan"".
+
+tipe tipe instruksi pada mesin komputer terbagi menajdi 4 jenis yang meliputi:
+
+1.Data procecessing: Arithmetic dan Logic Instructions adalah jenis pemrosesan yang dapat mengubah data menjadi informasi atau pengetahuan.
+
+2. Data storage: Memory instructions adalah sebuah memori komputermerujuk kepada bentuk media penyimpanan berbahan semikonduktor, yang dikenal dengan sebutan Random Access Memory (RAM), dan kadang-kadang dalam bentuk lainnya yang lebih cepat tapi hanya dapat menyimpan data secara sementara.
+"
+6/22/2021 17:19:22,ludfyr@gmail.com,Mochamad Ludfi Rahman,E41180507,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Instruction Set,"Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Operan sumber dan operan hasil dapat berada di tiga bagian yaitu memori utama atau memori virtual yang merupakan alamat yang harus diberikan ketika sebuah instruksi dibuat.
+Selanjutnya yang kedua adalah register CPU baik register eksplisit maupun implisit. Termasuk jenis register eksplisit adalah pada penggunaan dua atau tiga register, sedangkan instruksi dengan satu register , kemungkinan besar yang dilibatkan adalah register implisit akumulator secara implisit dihubungkan sebagai operan hasil.
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi.
+Jenis-jenis teknik pengalamatan instruksi meliputi pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack). Sementara permasalahan yang ada terdiri atas flexibilty lokasi operan, trade off antara fleksibilitas lokasi dan kecepatan pemrosesan"
+6/22/2021 17:33:27,ratnadwikristinasari27@gmail.com,Ratna Dwi Kristina Sari,E41180434,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Memori,"Pada hari ini, mempelajari materi terkait memori. 
+- Memori adalah bagian dari komputer tempat program–program dan data–data disimpan. Memori juga diartikan sebagai tempat informasi, dibaca dan ditulis, dimana terdapat berbagai jenis, teknologi, organisasi, unjuk kerja dan harga memori. Elemen dasar memori disebut sebagai sel memori. Sifat sel memori yaitu memiliki dua keadaan stabil (atau semi-stabil), yang dapat digunakan untuk merepresentasikan bilangan biner 1 atau 0. Sifat lainya adalah bahwa sel memori mempunyai kemampuan untuk ditulisi (sedikitnya satu kali) dan kemampuan untuk dibaca.
+- Karakteristik memori terbagi atas beberapa bagian yaitu lokasi, kapasitas, satuan transfer, metode akses, kinerja, tipe fisik beserta karakter fisik. 
+- Metode Akses memori terbagi menjadi empat yaitu 
+1. Sequential access, bekerja dengan cara memori diorganisasi menjadi unit – unit data yang disebut record.
+2. Metode direct access, sama seperti sequential access dimana terdapat shared read/write mechanism. Setiap blok dan record memiliki alamat unik berdasarkan lokasi fisiknya.
+3. Random access, setiap lokasi memori dipilih secara random dan diakses serta dialamati secara langsung.
+4. Associative access, jenis memori random akses yang memungkinkan pembandingan lokasi bit yang diinginkan untuk pencocokan.
+- Jika hirarki memori menurun, maka akan terjadi penurunan harga/bit, peningkatan kapasitas, peningkatan waktu akses serta penurunan frekuensi akses memori oleh CPU. Semakin lambat memori maka keperluan CPU untuk mengaksesnya semakin sedikit.
+- Memori semikonduktor terbagi atas beberapa tipediantaraya adalah random akses (RAM), ROM, PROM, EPROM, Flas Memory serta EEPROM.
+- Cache memori yang memiliki kemampuan untuk mempercepat kerja memori utama sehingga mendekati kecepatan prosesor. Memori utama
+lebih besar kapasitasnya namun lambat operasinya, sedangkan cache memori berukuran kecil namun lebih cepat. Cache memori berisi salinan memori utama. Ukuran cache memori adalah kecil, semakin besar kapasitasnya maka akan memperlambat proses operasi cache memori itu
+sendiri, disamping harga cache memori yang sangat mahal.
+- Memori eksternal dibutuhkan karena kapasitas yang terdapat pada memori utama tidak mencukupi sehingga diperlukan peralatan tambahan untuk menyimpan data yang lebih besar. Contoh-contoh memori eksternal meliputi Magnetik Disk (Floppy Disk, IDE Disk, SCSI Disk), RAID, Optical Disk (CDROM, CD-R, CD-RW, DVD) serta Pita Magnetik."
+6/22/2021 18:34:25,refandika888@gmail.com,Refandra Bramandika Miftahul Akhyar,E41180449,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"Set Instruksi (bahasa Inggris : Instruction Set, atau Instruction Set Architecture (ISA)) didefinisikan sebagai suatu aspek dalam arsitektur komputer yang dapat dilihat oleh para pemrogram.ISA merupakan sebuah spesifikasi dari kumpulan semua kode-kode biner (opcode) yang diimplementasikan dalam bentuk aslinya (native form) dalam sebuah desain prosesor tertentu. Kumpulan opcode tersebut, umumnya disebut sebagai bahasa mesin (machine language) untuk ISA yang bersangkutan.
+
+Set intruksi sendiri terbagi dalam 8 jenis, yaitu : lnstruksi transfer data (instruksi ini menyalin data dari satu register/lokasi memori ke yang lainnya), lnstruksi aritmetika (instruksi ini melakukan operasi-operasi aritmetika), lnstruksi logika (instruksi ini melakukan operasi-operasi logika Boolean), lnstruksi transfer kontrol (instruksi ini modifikasi/mengubah urutan eksekusi program), lnstruksi I/O (instruksi ini melakukan transfer informasi antara peripheral eksternal dan inti sistem (CPU/memori)), lnstruksi manipulasi strint (instruksi ini melakukan manipulasi string byte, word, double word, dan sebagainya), lnstruksi Translate (instruksi ini melakukan konversi data dari satu format ke format lain), lnstruksi kontrol prosesor (instruksi ini melakukan kontrol operasi prosesor)"
+6/22/2021 18:39:23,dekos301199@gmail.com,Denny eko satrijo,E41180325,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"A. Karakteristik Instruksi Mesin
+Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas : 
+• Kode operasi berfungsi sebagai penentu operasi
+• Sumber operan sebagai referensi data
+• Hasil operand sebagai referensi data
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).
+B. Tipe Instruksi dan Jumlah Alamat
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi. 
+C. Desain set instruksi 
+Fakta tentang sesain set instruksi ternyata masih dalam perselisihan. Masalah desain yang mendasari perselisihan tesebut meliputi operation repertoire yang menyangkut pembahasan tentang sejauh mana tingkat kerumitan sebuah instruksi, tipe data yang menyangkut pertanyaan apakah orang membutuhkan semua jenis data, format instruksi yang berkaitan dengan format jenis tetap atau variabel kemudian ukuran panjang instruksi serta jumlah operan yang teribat. 
+D. Format dan Mode Pengalamatan
+Instruksi dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Berbagai teknik pengalamatan telah digunakan untuk mencapai akses tersebut"
+6/22/2021 18:44:29,muhnizarudn@gmail.com,Muhammad Nizarudin,E41180167,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"A. Karakteristik Instruksi Mesin
+Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas : 
+• Kode operasi berfungsi sebagai penentu operasi
+• Sumber operan sebagai referensi data
+• Hasil operand sebagai referensi data
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).
+B. Tipe Instruksi dan Jumlah Alamat
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi. 
+C. Desain set instruksi 
+Fakta tentang sesain set instruksi ternyata masih dalam perselisihan. Masalah desain yang mendasari perselisihan tesebut meliputi operation repertoire yang menyangkut pembahasan tentang sejauh mana tingkat kerumitan sebuah instruksi, tipe data yang menyangkut pertanyaan apakah orang membutuhkan semua jenis data, format instruksi yang berkaitan dengan format jenis tetap atau variabel kemudian ukuran panjang instruksi serta jumlah operan yang teribat. 
+D. Format dan Mode Pengalamatan
+Instruksi dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Berbagai teknik pengalamatan telah digunakan untuk mencapai akses tersebut"
+6/22/2021 18:59:39,sayyidmusthofa89@gmail.com,Moh Saidul Musthofa,E41180377,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Instruksi,"A.	Karakteristik Intruksi Mesin
+Set intruksi adalah kumpulan jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin adalah setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Hal yang perlu diperhatikan adalah sebagai berikut:
+1.	Kode operasi berfungsi sebagai penentu operasi
+2.	Sumber operan sebagai referensi data
+3.	Hasil operan sebagai referensi data
+4.	Instruksi selanjutnya yang akan dieksekusi 
+Instruksi  biasanya diwakili oleh pernyataan yang dapat dihapami oleh manusia, yaitu:
+1.	ADD	: Tambahkan
+2.	SUB	: Kurangkan
+3.	DIV		: Bagi
+4.	MUL	: Kalikan
+5.	ADD R, Y	: Tambahkan data R (operan pertama) dan Y (operan kedua) 
+B.	Tipe Instruksi dan Jumlah Alamat
+Tipe instruksi terdiri dari 4 jenis yang meliputi pengolahan data aritmatika, instruksi logika, penyimpanan data dan pergerakan data. Perlu diperhatikan bahwa jumlah set instruksi dengan 0 alamat paling banyak dibandingkan dengan satu, dua atau tiga alamat.
+C.	Desain set Instruksi
+Hal yang perlu diperhatikan adalah tipe-tipe operan yang terlibat pada sebuah set instruksi. Instruksi mesin bekerja pada data dengan kategori yang paling penting yaitu alamat, angka, karakter dan data logika.
+D.	Format dan Mode Pengalamatan
+Intruksi ditujukan untuk dapat merujuk ke berbagai lokasi di memori utama. Pertukaran antara rentang alamat dan kompleksitas perhitungan alamat sangat perlu diperhatikan.jenis Teknik pengalamatan instruksi meliputi pengalamatan segera, langsung, tidak langsung , daftar, datar tidak langsung, perpindahan, tumpukan (stack)."
+6/22/2021 19:07:31,e41180100@student.polije.ac.id,Achmad Syadidul Fahim,E41180100,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"A. Karakteristik Instruksi Mesin
+Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas : 
+• Kode operasi berfungsi sebagai penentu operasi
+• Sumber operan sebagai referensi data
+• Hasil operand sebagai referensi data
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).
+B. Tipe Instruksi dan Jumlah Alamat
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi. 
+C. Desain set instruksi 
+Fakta tentang sesain set instruksi ternyata masih dalam perselisihan. Masalah desain yang mendasari perselisihan tesebut meliputi operation repertoire yang menyangkut pembahasan tentang sejauh mana tingkat kerumitan sebuah instruksi, tipe data yang menyangkut pertanyaan apakah orang membutuhkan semua jenis data, format instruksi yang berkaitan dengan format jenis tetap atau variabel kemudian ukuran panjang instruksi serta jumlah operan yang teribat. 
+D. Format dan Mode Pengalamatan
+Instruksi dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Berbagai teknik pengalamatan telah digunakan untuk mencapai akses tersebut"
+6/22/2021 19:18:11,meilinniafa@gmail.com,Meilinnia Fortuna Astri,E41180229,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Instruksi,"A. Karakteristik Instruksi Mesin
+Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas : 
+• Kode operasi berfungsi sebagai penentu operasi
+• Sumber operan sebagai referensi data
+• Hasil operand sebagai referensi data
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau
+secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).
+B. Tipe Instruksi dan Jumlah Alamat
+Tipe-tipe  instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi  I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi."
+6/22/2021 19:18:13,adynugrahaputra@gmail.com,Ady Nugraha Putra Ramadhan,E41180123,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"Pada Pertemuan ke 13 tentang set intruksi saya dapat menyimpulkan yang pertama karakteristik intruksi mesin dan tipe intruksi dan jumlah alamat, dijelaskan di bawah sebagai berikut :
+A. Karakteristik Instruksi Mesin
+Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas : 
+• Kode operasi berfungsi sebagai penentu operasi
+• Sumber operan sebagai referensi data
+• Hasil operand sebagai referensi data
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).
+B. Tipe Instruksi dan Jumlah Alamat
+Tipe-tipe  instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi  I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi."
+6/22/2021 20:33:15,dickyirqi11@gmail.com,Dicky Irqi Zulkarnaen,E41180226,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Operasi CPU,"Instruksi mesin merupakan setiap instruksi berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. 
+Elemen instruksi biasanya terdiri atas : 
+Kode Operasi, berfungsi sebagai penentu operasi 
+Sumber Operan, sebagai referensi data 
+Hasil Operand, sebagai referensi data  
+Instruksi selanjutnya yang akan dieksekusi 
+Operan sumber dan operan hasil dapat berada di tiga bagian, antara lain :
+Memori Utama (Memori Virtual), alamat yang harus diberikan ketika sebuah instruksi dibuat.
+Register CPU, baik register implisit, (penggunaan satu register, biasanya untuk operasi aritmatika), dan register eksplisit (penggunaan dua atau tiga register).
+Perangkat I/O, menentukan perangkat I/O atau modul yang digunakan.
+Tipe Instruksi dan Jumlah Alamat:
+Pengolahan Data Aritmatika dan Instruksi Logika
+Penyimpanan Data 
+Pergerakan Data dari dan Menuju I/O 
+Kontrol atau Pengendalian 
+Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu, bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine).
+Format dan mode pengalamatan ini dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi, antara lain pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack).
+Permasalahan Format Dan Mode Pengalamatan : 
+Flexibilty Lokasi Operan
+Trade Off antara Fleksibilitas Lokasi dan Kecepatan Pemrosesan."
+6/22/2021 20:39:23,agungwahyu23699@gmail.com,Agung Wahyu Gunawan,E41180417,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Memori,"Pada bab ini menjelaskan mengenai memori. Memori merupakan tempat program–program dan data–data disimpan yang secara garis besar berdasarkan lokasinya terbagi menjadi 2 yaitu internal dan ekstenal. Memori internal adalah memori yang dapat diakses langsung oleh prosesor. Sedangkan memori eksternal adalah memori yang diakses prosesor melalui piranti I/O. selain itu dijelaskan juga bahwa memori memiliki karakteristik yang terbagi atas lokasi, kapasitas, satuan transfer, metode akses, kinerja, tipe fisik beserta karakter fisik. Satuan pokok memori adalah digit biner atau disebut bit. Bit dapat berisi sebuah angka 0 atau 1. Memori juga dinyatakan dalam byte, 1 byte = 8 bit. Kumpulan byte dinyatakan dalam word. Beberapa tipe memori internal yaitu random akses (RAM), ROM, PROM, EPROM, Flas Memory serta EEPROM. RAM bersifat volatile dimana data tersimpan selama ada daya (listrik) dan akan hilang jika tidak ada sumber listrik. Data pada ROM bersifat permanen, tidak bisa diubah dimana ini menguntungkan untuk penyimpanan data yang permanen.  Cache adalah memori yang memiliki kemampuan untuk mempercepat kerja memori utama sehingga mendekati kecepatan prosesor. Contoh-contoh memori eksternal meliputi Magnetik Disk (Floppy Disk, IDE Disk, SCSI Disk), RAID, Optical Disk (CDROM, CD-R, CD-RW, DVD) serta Pita Magnetik."
+6/22/2021 20:53:34,syifa.urrosydah1810@gmail.com,Syifa' Urrosydah At-Thohiroh,E41180316,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Intrution set,"Instruction set adalah kumpulan berbagai jenis instruksi dari CPU tertentu. Sedang elemen instruksi mesin adalah setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi terdiri dari : 
+
+• Kode operasi berfungsi sebagai penentu operasi
+
+• Sumber operan sebagai referensi data
+
+• Hasil operan sebagai referensi data
+
+• Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau 
+
+secara implisit diberikan - instruksi selanjutnya setelah instruksi saat ini).Operan sumber dan operan hasil dapat berada di tiga bagian yaitu memori utama, register CPU baik register eksplisit maupun implisit. Jenis operan sumber dan hasil yang ketika perangkat I/O yang digunakan untuk instruksi I/O. Instruksi biasanya diwakili dengan pernyataan-pernyataan yang sifatnya mudah dipahami atau mudah diingat oleh manusia 
+
+(menemonik). Beberapa contoh instruksi seperti : 
+
+ADD artinya “tambahkan”
+
+SUB artinya “kurangkan”
+
+DIV artinya “bagi”
+
+MUL artinya “kalikan”
+
+ADD R, Y, artinya tambahkan data R (operan pertama) dan Y (operan kedua)
+
+
+
+Tipe instruksi pada mesin komputer terbagi atas empat jenis yaitu instruksi, penyimpanan data, pergerakan Data dari dan menuju I/O , Kontrol atau pengendalian. Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu: bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine)"
+6/22/2021 21:10:29,nurullahke25@gmail.com,Mochamad Nurullah,E41180169,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Set Intruksi,"Instruction set atau set instruksi merupakan kumpulan berbagai jenis instruksi dari CPU tertentu. Sedangkan elemen instruksi mesin merupakan setiap instruksi harus berisi informasi yang dibutuhkan oleh CPU untuk eksekusi. Elemen instruksi biasanya terdiri atas :  
+•Kode operasi berfungsi sebagai penentu operasi 
+• Sumber operan sebagai referensi data 
+• Hasil operand sebagai referensi data 
+• Instruksi selanjutnya yang akan dieksekusi
+
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi.
+
+Fakta tentang sesain set instruksi ternyata masih dalam perselisihan. Masalah desain yang mendasari perselisihan tesebut meliputi operation repertoire yang menyangkut pembahasan tentang sejauh mana tingkat kerumitan sebuah instruksi, tipe data yang menyangkut pertanyaan apakah orang membutuhkan semua jenis data, format instruksi yang berkaitan dengan format jenis tetap atau variabel kemudian ukuran panjang instruksi serta jumlah operan yang teribat. Dua pembahasan yang menjadi perselisihan selanjutnya berkaitan dengan register dan pengalamatan. Pada register ukuran seerta tujuan pemanfaatanya masih diperdebatkan termasuk pada pengalamatan tentang berapa banyak pengalamatan yang dibutuhkan beserta mode pengalamatannya. Sementara itu hal lain yang perlu diperhatika dalam desain instruksi adalah tipe-tipe operan yang terlibat pada sebuah set instruksi."
+6/22/2021 21:13:30,cshelin0@gmail.com,Cicilia Shelin Novitasari Sonny Emor,E41180183,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,SET INTRUKSI,"Elemen instruksi biasanya terdiri atas :
+- Kode operasi berfungsi sebagai penentu operasi
+- Sumber operan sebagai referensi data
+- Hasil operand sebagai referensi data
+- Instruksi selanjutnya yang akan dieksekusi (bisa diberikan dalam instruksi saat ini atau secara implisit diberikan instruksi selanjutnya setelah instruksi saat ini).
+
+Termasuk jenis register eksplisit adalah pada penggunaan dua atau tiga register, sedangkan instruksi dengan satu register (satu instruksi operan), kemungkinan besar yang dilibatkan adalah register implisit (biasanya untuk operasi aritmatika) akumulator secara implisit dihubungkan sebagai operan hasil.
+
+Tipe-tipe instruksi pada mesin komputer terbagi atas empat jenis yang meliputi instruksi untuk pengolahan data aritmatika dan instruksi logika, penyimpanan data yang merupakan instruksi memori, pergerakan Data dari dan menuju I/O atau biasa disebut sebagai instruksi I/O, Kontrol atau pengendalian yang merupakan instruksi engujian dan instruksi cabang serta aritmatika yang mampu memberikan kemampuan komputasi.
+
+Program aritmatika diatas hanya terdiri atas empat set instruksi, dalam program ini terlihat bahwa word length untuk alamat operan lebih panjang ketika menggunka tiga alamat yang terlibat sekaligus dalam setiap instruksi mesin.
+
+Dalam program dengan dua alamat tersebut diatas tampak bahwa program terdiri atas enam instruksi, dimana pada saat jumlah alamat yang terlibat berkurang (dua alamat, dibandingkan contoh sebelumnya tiga alamat) maka instruksi semakin panjang.
+
+Masalah desain yang mendasari perselisihan tesebut meliputi operation repertoire yang menyangkut pembahasan tentang sejauh mana tingkat kerumitan sebuah instruksi, tipe data yang menyangkut pertanyaan apakah orang membutuhkan semua jenis data, format instruksi yang berkaitan dengan format jenis tetap atau variabel kemudian ukuran panjang instruksi serta jumlah operan yang teribat.
+
+Dimana dalam instruksi dua alamat (two address instruction), akan terlihat seperti ADD 1050 (R1), R2 yang artinya tambahkan data di R2 dengan data yang alamat dasarnya ada di R1 dan displacement-nya 1050."
+6/22/2021 21:13:32,andreasterben69@gmail.com,Andrea Santana Adzani,E41180362,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Memory,"Memori adalah bagian dari komputer tempat program–program dan data–data disimpan. Memori juga diartikan sebagai tempat informasi, dibaca dan ditulis, dimana terdapat berbagai jenis, teknologi, organisasi, unjuk kerja dan harga memori. Memori internal adalah memori yang dapat diakses langsung oleh prosesor. Contoh memori internal adalah register yang terdapat di dalam prosesor, cache memori dan memori utama berada di luar prosesor. Elemen dasar memori disebut sebagai sel memori. Sifat sel memori yaitu memiliki dua keadaan stabil , yang dapat digunakan untuk merepresentasikan bilangan biner 1 atau 0.
+
+Karakteristik memori terbagi atas beberapa bagian yaitu lokasi, kapasitas, satuan transfer, metode akses, kinerja, tipe fisik beserta karakter fisik.
+
+Memori yang berada di dalam chip prosesor adalah register. Register diakses langsung oleh prosesor dalam menjalankan operasinya.Register digunakan sebagai memori sementara dalam perhitungan maupun pengolahan data dalam prosesor.
+
+Unit of tranfer, adalah jumlah bit yang dibaca atau dituliskan ke dalam memori pada suatu saat. Pada memori eksternal,tranfer data biasanya lebih besar dari suatu word, yang disebutdengan block.Metode Akses memori terbagi menjadi empat yaitu Sequential access, Direct access ,Random access serta Associative access. Akses dilakukan langsung pada alamat memori dan disk adalah memori direct access.
+
+Memori semikonduktor terbagi atas beberapa tipediantaraya adalah random akses (RAM), ROM, PROM, EPROM, Flas Memory serta EEPROM.
+
+Pemetaan Cache mempunyai kapasitas yang kecil dibandingkan memori utama. Aturan blok – blok mana yang diletakkan dalam cache. Terdapat tiga metode, yaitu pemetaan langsung, pemetaan asosiatif, dan pemetaan asosiatif set. "
+6/22/2021 23:12:40,nevarida24@gmail.com,nevarida sindyka diliana putri,e41180466,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,set intruksi,"Instruksi mesin merupakan setiap instruksi berisi informasi yang dibutuhkan oleh CPU untuk eksekusi.
+
+Elemen instruksi biasanya terdiri atas :
+
+Kode Operasi, berfungsi sebagai penentu operasi
+Sumber Operan, sebagai referensi data
+Hasil Operand, sebagai referensi data 
+Instruksi selanjutnya yang akan dieksekusi
+Operan sumber dan operan hasil dapat berada di tiga bagian, antara lain :
+
+Memori Utama (Memori Virtual), alamat yang harus diberikan ketika sebuah instruksi dibuat.
+Register CPU, baik register implisit, (penggunaan satu register, biasanya untuk operasi aritmatika), dan register eksplisit (penggunaan dua atau tiga register).
+Perangkat I/O, menentukan perangkat I/O atau modul yang digunakan.
+Tipe Instruksi dan Jumlah Alamat:
+
+Pengolahan Data Aritmatika dan Instruksi Logika
+Penyimpanan Data
+Pergerakan Data dari dan Menuju I/O
+Kontrol atau Pengendalian
+Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu, bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine).
+
+Format dan mode pengalamatan ini dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi, antara lain pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack).
+
+Permasalahan Format Dan Mode Pengalamatan :
+
+Flexibilty Lokasi Operan
+Trade Off antara Fleksibilitas Lokasi dan Kecepatan Pemrosesan."
+6/22/2021 23:37:09,viqih999@gmail.com,Muhammad Viqih Zamzami,E41180454,6,A,Organisasi dan Arsitektur Komputer,13,6/22/2021,Instruksi,"Instruksi mesin merupakan setiap instruksi berisi informasi yang dibutuhkan oleh CPU untuk eksekusi.  
+Elemen instruksi biasanya terdiri atas :  
+1. Kode Operasi, berfungsi sebagai penentu operasi  
+2. Sumber Operan, sebagai referensi data  
+3. Hasil Operand, sebagai referensi data   
+4. Instruksi selanjutnya yang akan dieksekusi  
+Operan sumber dan operan hasil dapat berada di tiga bagian, antara lain : 
+1. Memori Utama (Memori Virtual), alamat yang harus diberikan ketika sebuah instruksi dibuat. 
+2. Register CPU, baik register implisit, (penggunaan satu register, biasanya untuk operasi aritmatika), dan register eksplisit (penggunaan dua atau tiga register). 
+3. Perangkat I/O, menentukan perangkat I/O atau modul yang digunakan. 
+Tipe Instruksi dan Jumlah Alamat: 
+1. Pengolahan Data Aritmatika dan Instruksi Logika 
+2. Penyimpanan Data  
+3. Pergerakan Data dari dan Menuju I/O  
+4. Kontrol atau Pengendalian  
+Jumlah alamat pada instruksi menunjukkan jumlah operan yang dapat dilibatkan dalam operasi tertentu, bisa jadi satu, dua atau tiga, atau bahkan nol (stack machine). 
+Format dan mode pengalamatan ini dirancang untuk dapat merujuk ke berbagai lokasi di memori utama. Jenis-jenis teknik pengalamatan instruksi, antara lain pengalamatan segera, langsung, tidak langsung, daftar, daftar tidak langsung, perpindahan, tumpukan (stack). 
+Permasalahan Format Dan Mode Pengalamatan :  
+1. Flexibilty Lokasi Operan 
+2. Trade Off antara Fleksibilitas Lokasi dan Kecepatan Pemrosesan."
